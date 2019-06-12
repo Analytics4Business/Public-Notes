@@ -21,7 +21,7 @@ Google gives us u$s 300 to try the platform, which is more than enough for this 
 
 #### 3) Create your Python script
 
-First install the tweepy package for python () to connect easily to the Twitter Streaming. You can take the library example as guide :  .
+First install the tweepy package for python (https://github.com/tweepy/tweepy) to connect easily to the Twitter Streaming. You can take the library example as guide : https://github.com/tweepy/tweepy/blob/master/examples/streaming.py
 
 #### 4) Create a Compute Engine instance
 
